@@ -1,4 +1,4 @@
-# Rails Dynamic Request
+# Rails Dynamic Request test
 
 ## Review
 
